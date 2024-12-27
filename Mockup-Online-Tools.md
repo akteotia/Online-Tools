@@ -1,4 +1,4 @@
-### Mockup Tools
+### Online Mockup Tools
 
 A mockup is a visual way of representing the product. While a wireframe mostly represents a product’s structure, a mockup shows how the product is going to look like. These mockup tools that help you create and collaborate on mockups, wireframes, diagrams, and prototypes:
 
