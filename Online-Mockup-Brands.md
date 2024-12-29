@@ -1,5 +1,7 @@
 Premium Mockup Providers
 - https://placeit.net - Placeit
+- https://www.freebiesmockup.com/ - [Freebies Mockup](https://www.freebiesmockup.com/)
+- https://www.photoshopvideotutorial.com/ - [Photoshop PSD Mockups](https://www.photoshopvideotutorial.com/) 
 - https://elements.envato.com - Envato Elements
 - https://smartmockups.com - Smartmockups
 - https://mockuuups.studio - Mockuuups Studio
